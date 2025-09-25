@@ -5,6 +5,8 @@ description: Presentation courtesy of Dr. Francis Duffy, DEGW. Used with permiss
 file: /courses/15-990-architecture-and-communication-in-organizations-fall-2003/9f6e48240843e5bce974dbb1182d96ae_workplace_design.pdf
 file_size: 2346887
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a bibliography of readings for the course, organized
   by day and topic.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
