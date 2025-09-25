@@ -5,6 +5,8 @@ description: From Consolidation to Innovation 1. Presentation courtesy of Camero
 file: /courses/15-990-architecture-and-communication-in-organizations-fall-2003/068d8bb883700119d00d13d51b53cda9_consolidation_to_innovation1.pdf
 file_size: 228036
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

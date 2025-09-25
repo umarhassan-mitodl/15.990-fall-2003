@@ -37,6 +37,7 @@
     "website": "15-990-architecture-and-communication-in-organizations-fall-2003"
   },
   "course_title": "Architecture and Communication in Organizations",
+  "hide_download": true,
   "course_description": "While no businesses succeed based on their architecture or space design, many fail as a result of inattention to the power of spatial relationships. This course demonstrates through live case studies with managers and architects the value of strategic space planning and decision making in relation to business needs. The course presents conceptual frameworks for thinking about architecture, communication and organizations.\n\nThis course is offered during the Sloan Innovation Period (SIP), which is a one-week period at the MIT Sloan School of Management that occurs midway through each semester.\n",
   "department_numbers": [
     "15"
@@ -47,6 +48,7 @@
     "content": "14826d01-b170-cc62-f105-acd12ef5a040",
     "website": "15-990-architecture-and-communication-in-organizations-fall-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],
