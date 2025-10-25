@@ -5,8 +5,6 @@ description: 'Strategy and Design: Why Space Matters.  Presentation courtesy of 
 file: /courses/15-990-architecture-and-communication-in-organizations-fall-2003/478263a2c5514cab9327b973725a1620_strategy_and_design.pdf
 file_size: 782553
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

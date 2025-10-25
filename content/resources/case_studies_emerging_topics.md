@@ -5,8 +5,6 @@ description: 'Discussion of Case Studies and Emerging Topics.  Beyond work stati
 file: /courses/15-990-architecture-and-communication-in-organizations-fall-2003/26c747ebdd92c749b6ffe308874f15e6_case_studies_emerging_topics.pdf
 file_size: 2790865
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
